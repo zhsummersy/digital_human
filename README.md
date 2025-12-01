@@ -1,5 +1,9 @@
 # 智能语音交互虚拟助手系统
 
+<img width="2878" height="1378" alt="data2" src="https://github.com/user-attachments/assets/faff88da-5849-4344-88e5-88b7a20fe4fe" />
+<img width="2876" height="1370" alt="data1" src="https://github.com/user-attachments/assets/2f2c0a7b-3b02-4248-ba35-051a9122cc20" />
+
+
 ## 项目概述
 
 这是一个基于Three.js和VRM模型的交互式虚拟助手系统，集成了语音识别、语音合成、虚拟形象动画、PLC设备控制、后台任务管理和系统配置功能。系统提供了完整的语音交互体验，通过唤醒词触发对话，支持多种动画效果，并具备完善的工业设备管理能力。
